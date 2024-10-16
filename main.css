@@ -1,0 +1,58 @@
+	body {
+      font-size: 18px;
+      color: #333;
+    }
+	h1 {
+      font-size: 60px;
+      text-align: center;
+	  margin-top: 50px;
+	  margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 25px;
+      text-align: center;
+	  margin-top: 0;
+	  padding-bottom: 30px;
+    }
+	section {
+      margin-top: 50px;
+	  margin-bottom: 50px;
+	  margin-left: 0;
+	  margin-right: 0;
+	  padding-top: 0;
+	  padding-bottom: 0;
+	  padding-left: 50px;
+	  padding-right: 50px;
+    }
+	section > h2 {
+      text-align: left;
+	  padding: 0;
+	  border: none;
+    }
+	li {
+      margin-bottom: 10px;
+    }
+	
+	
+	
+	#main {
+      color: white;
+      width: 750px;
+    }
+    .text-white {
+      color: white;
+    }
+
+    .alert {
+      height: 50px;
+      color: gray;
+    }
+
+    div {
+      background: blue;
+    }
+
+    .alert-warning {
+      background: #000000;
+      color: yellow;
+    }
